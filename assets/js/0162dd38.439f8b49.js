@@ -1,0 +1,1 @@
+(self.webpackChunkjellyfin_org=self.webpackChunkjellyfin_org||[]).push([[2306],{75:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"desktop","name":"desktop","count":1,"permalink":"/blog/tags/desktop"}')}}]);

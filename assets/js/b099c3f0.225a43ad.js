@@ -1,0 +1,1 @@
+(self.webpackChunkjellyfin_org=self.webpackChunkjellyfin_org||[]).push([[5462],{9039:function(l){"use strict";l.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"mpv","name":"mpv","count":1,"permalink":"/blog/tags/mpv"}')}}]);

@@ -4,29 +4,141 @@
         <title>Jellyfin Blog</title>
         <link>http://next.jellyfin.org/blog</link>
         <description>Jellyfin Blog</description>
-        <lastBuildDate>Thu, 30 May 2019 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 May 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Welcome]]></title>
-            <link>http://next.jellyfin.org/blog/welcome</link>
-            <guid>welcome</guid>
-            <pubDate>Thu, 30 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!]]></description>
+            <title><![CDATA[New Android TV Release - v0.11.0]]></title>
+            <link>http://next.jellyfin.org/blog/2021/05/04/android-tv-11</link>
+            <guid>New Android TV Release - v0.11.0</guid>
+            <pubDate>Tue, 04 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Thank you for using Jellyfin! This is a major update for the Android TV client.]]></description>
         </item>
         <item>
-            <title><![CDATA[Hello]]></title>
-            <link>http://next.jellyfin.org/blog/hello-world</link>
-            <guid>hello-world</guid>
-            <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Welcome to this blog. This blog is created with Docusaurus 2 alpha.]]></description>
+            <title><![CDATA[Introducing Jellyfin Media Player]]></title>
+            <link>http://next.jellyfin.org/blog/2021/04/18/jmp</link>
+            <guid>Introducing Jellyfin Media Player</guid>
+            <pubDate>Sun, 18 Apr 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[A new user friendly MPV-based desktop client]]></description>
         </item>
         <item>
-            <title><![CDATA[Hola]]></title>
-            <link>http://next.jellyfin.org/blog/hola</link>
-            <guid>hola</guid>
-            <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
+            <title><![CDATA[A Note About Privacy and Expo for iOS]]></title>
+            <link>http://next.jellyfin.org/blog/2021/04/17/privacy-expo-ios</link>
+            <guid>A Note About Privacy and Expo for iOS</guid>
+            <pubDate>Sat, 17 Apr 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Providing transparency to the community]]></description>
+        </item>
+        <item>
+            <title><![CDATA[The Jellyfin CDN: Mirrorbits for the masses]]></title>
+            <link>http://next.jellyfin.org/blog/2021/04/12/jellyfin-cdn</link>
+            <guid>The Jellyfin CDN: Mirrorbits for the masses</guid>
+            <pubDate>Mon, 12 Apr 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[How Jellyfin distributes binary packages]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Android app now on F-Droid]]></title>
+            <link>http://next.jellyfin.org/blog/2021/03/01/android-on-fdroid</link>
+            <guid>Android app now on F-Droid</guid>
+            <pubDate>Mon, 01 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Available to download right now!]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Please refresh your Jellyfin Apt key on Debian/Ubuntu]]></title>
+            <link>http://next.jellyfin.org/blog/2020/11/24/apt-key</link>
+            <guid>Please refresh your Jellyfin Apt key on Debian/Ubuntu</guid>
+            <pubDate>Tue, 24 Nov 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Our old key is expiring December 15th, read on to find out how to update]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Android v2.1.0 - Jellyfin in your car!]]></title>
+            <link>http://next.jellyfin.org/blog/2020/10/25/android-v2.1.0</link>
+            <guid>Android v2.1.0 - Jellyfin in your car!</guid>
+            <pubDate>Sun, 25 Oct 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Listen to your music while driving with the new Android update]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Android Developers Rejoice]]></title>
+            <link>http://next.jellyfin.org/blog/2020/10/05/android-next</link>
+            <guid>Android Developers Rejoice</guid>
+            <pubDate>Mon, 05 Oct 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[We have a brand new web wrapper for Android sans Cordova!]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Client Spotlight: Videotape]]></title>
+            <link>http://next.jellyfin.org/blog/2020/08/22/client-spotlight-videotape</link>
+            <guid>Client Spotlight: Videotape</guid>
+            <pubDate>Sat, 22 Aug 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Bringing smooth playback to the Xbox One & Windows 10 with Jellyfin]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Jellyfin Release - v10.6.0]]></title>
+            <link>http://next.jellyfin.org/blog/2020/07/19/jellyfin-10-6-0</link>
+            <guid>Jellyfin Release - v10.6.0</guid>
+            <pubDate>Sun, 19 Jul 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Party together while social distancing]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Plugin Repositories]]></title>
+            <link>http://next.jellyfin.org/blog/2020/07/17/plugin-updates</link>
+            <guid>Plugin Repositories</guid>
+            <pubDate>Fri, 17 Jul 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Install Plugins from Anywhere!]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Packaging Updates for 10.6.0]]></title>
+            <link>http://next.jellyfin.org/blog/2020/06/21/packaging-updates</link>
+            <guid>Packaging Updates for 10.6.0</guid>
+            <pubDate>Sun, 21 Jun 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Some backend packaging changes are here: what you should know]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Client Spotlight: Infuse for tvOS and iOS]]></title>
+            <link>http://next.jellyfin.org/blog/2020/05/12/client-spotlight-infuse</link>
+            <guid>Client Spotlight: Infuse for tvOS and iOS</guid>
+            <pubDate>Tue, 12 May 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Enjoy your library on Apple TV, iPhone, and iPad]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Jellyfin: Now on Xbox One (UPDATED)]]></title>
+            <link>http://next.jellyfin.org/blog/2020/04/22/jellyfin-xbox</link>
+            <guid>Jellyfin: Now on Xbox One (UPDATED)</guid>
+            <pubDate>Wed, 22 Apr 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Bet you didn't see this one coming!]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Jellyfin Release - v10.5.0]]></title>
+            <link>http://next.jellyfin.org/blog/2020/03/07/jellyfin-10-5-0</link>
+            <guid>Jellyfin Release - v10.5.0</guid>
+            <pubDate>Sat, 07 Mar 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Our biggest release yet]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Jellyfin for Kodi Release - v0.5.0]]></title>
+            <link>http://next.jellyfin.org/blog/2020/03/04/kodi-0-5-0</link>
+            <guid>Jellyfin for Kodi Release - v0.5.0</guid>
+            <pubDate>Wed, 04 Mar 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Gotta Go Fast]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Client Spotlight: MPV Shim]]></title>
+            <link>http://next.jellyfin.org/blog/2020/02/07/client-spotlight-mpv-shim</link>
+            <guid>Client Spotlight: MPV Shim</guid>
+            <pubDate>Fri, 07 Feb 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Watch all your favorite content without transcoding!]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Jellyfin in 2019]]></title>
+            <link>http://next.jellyfin.org/blog/2020/01/02/jellyfin-in-2019</link>
+            <guid>Jellyfin in 2019</guid>
+            <pubDate>Thu, 02 Jan 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Reflections on our first year]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Welcome to the New Website!]]></title>
+            <link>http://next.jellyfin.org/blog/2019/12/21/welcome</link>
+            <guid>Welcome to the New Website!</guid>
+            <pubDate>Sat, 21 Dec 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Static pages built with Hugo, and more communication.]]></description>
         </item>
     </channel>
 </rss>
