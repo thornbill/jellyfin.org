@@ -1,0 +1,1 @@
+(self.webpackChunkjellyfin_org=self.webpackChunkjellyfin_org||[]).push([[3185],{8448:function(e,l,n){"use strict";n.r(l),n.d(l,{default:function(){return u}});var t=n(7294),r=n(2611);function u(){return t.createElement(r.Z,null,t.createElement("h1",null,"Features"),t.createElement("p",null,"Placeholder page"))}}}]);
