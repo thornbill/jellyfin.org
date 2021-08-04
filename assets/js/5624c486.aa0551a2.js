@@ -1,1 +1,0 @@
-(self.webpackChunkjellyfin_org=self.webpackChunkjellyfin_org||[]).push([[9331],{6564:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"windows","name":"windows","count":1,"permalink":"/blog/tags/windows"}')}}]);

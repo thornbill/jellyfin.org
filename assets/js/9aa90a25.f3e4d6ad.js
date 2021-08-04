@@ -1,1 +1,0 @@
-(self.webpackChunkjellyfin_org=self.webpackChunkjellyfin_org||[]).push([[9609],{672:function(r){"use strict";r.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"infrastructure","name":"infrastructure","count":1,"permalink":"/blog/tags/infrastructure"}')}}]);

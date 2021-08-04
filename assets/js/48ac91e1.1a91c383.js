@@ -1,1 +1,0 @@
-(self.webpackChunkjellyfin_org=self.webpackChunkjellyfin_org||[]).push([[5912],{8193:function(l){"use strict";l.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"client-spotlight","name":"client spotlight","count":3,"permalink":"/blog/tags/client-spotlight"}')}}]);
